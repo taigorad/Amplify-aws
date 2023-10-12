@@ -1,0 +1,47 @@
+.Form_outside{
+    height: 100vh;
+    background-image: url("../../assests/bg2.jpg"); /* Set the background image path */
+    background-size: cover; /* Scale the image to cover the entire navbar */
+    background-repeat: no-repeat; 
+
+}
+
+/* .heading22{
+    text-align: center;
+    
+    
+}
+label{
+    display: block;
+    margin-left: 45%;
+    font-size: 25px;
+}
+input{
+    display: inline;
+    padding: 10px 50px;
+    margin-left: 32%;
+    
+    border-radius: 10px;
+
+}
+.button22{
+
+    display: block;
+    margin-left: 45%;
+    margin-bottom: 30px;
+    padding: 8px 20px;
+   font-size: 15px;
+   border:1px solid white;
+   border-radius: 10px;
+}
+.button:hover{
+       
+    border: 1px solid black;
+    background-color: bisque;
+    border-radius: 50px;
+}
+   */
+
+.inside{
+    margin-top: 100px;
+}
